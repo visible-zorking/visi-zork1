@@ -107,11 +107,11 @@ git submodule update
 
 Sorry. Submodules are a pain in the ass.
 
-[visiterp]: https://github.com/erkyrath/visiterp
-[terpsrc]: https://github.com/erkyrath/visiterp/tree/master/src
-[terppyana]: https://github.com/erkyrath/visiterp/tree/master/pyana
-[terpfont]: https://github.com/erkyrath/visiterp/tree/master/font
-[terpcss]: https://github.com/erkyrath/visiterp/tree/master/css
+[visiterp]: https://github.com/visible-zorking/visiterp
+[terpsrc]: https://github.com/visible-zorking/visiterp/tree/master/src
+[terppyana]: https://github.com/visible-zorking/visiterp/tree/master/pyana
+[terpfont]: https://github.com/visible-zorking/visiterp/tree/master/font
+[terpcss]: https://github.com/visible-zorking/visiterp/tree/master/css
 
 The `visiterp` repository provides: 
 

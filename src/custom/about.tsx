@@ -190,7 +190,7 @@ export function AboutPage()
                     by Marnanel Thurman, Atul Varma, and Dannii Willis.
                     You can find this, and the rest of the Visible Zorker
                     machinery, on{' '}
-                    <ExtWebLink url={ 'https://github.com/erkyrath/visizork' } text={ 'Github' } />.
+                    <ExtWebLink url={ 'https://github.com/visible-zorking/visi-zork1' } text={ 'Github' } />.
                 </p>
                 <p>
                     I used TXD from the{' '}
@@ -233,7 +233,7 @@ export function AboutPage()
                 <p>
                     Aside from the above, the Visible Zorker is copyright
                     2025 by Andrew Plotkin. MIT license;{' '}
-                    <ExtWebLink url={ 'https://github.com/erkyrath/visizork' } text={ 'Github repo' } />.
+                    <ExtWebLink url={ 'https://github.com/visible-zorking/visi-zork1' } text={ 'Github repo' } />.
                 </p>
                 <p>
                     Last updated <b>{ lastupdate }</b>.
