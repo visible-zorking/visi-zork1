@@ -24,16 +24,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="338.5"
-     inkscape:cy="193.5"
+     showgrid="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="573.11005"
+     inkscape:cy="1471.1357"
      inkscape:window-width="1976"
      inkscape:window-height="1103"
-     inkscape:window-x="2097"
-     inkscape:window-y="32"
+     inkscape:window-x="2114"
+     inkscape:window-y="94"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2">
+     inkscape:current-layer="connlayer">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -47,7 +47,7 @@
        opacity="0.14902"
        empspacing="5"
        enabled="true"
-       visible="false" />
+       visible="true" />
   </sodipodi:namedview>
   <style
      id="style1">#roomlayer rect { fill:#F8F0E8; stroke:#000; stroke-width:0.7; }
@@ -973,6 +973,66 @@
        d="m 597.95832,26.670992 c 0.26458,-1.322917 3.43958,-5.291667 0,-5.291667 -3.43958,0 -0.26458,3.96875 0,5.291667"
        id="path152-0"
        sodipodi:nodetypes="czc" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       id="toggle-magic-flag-1"
+       width="1.5874993"
+       height="3.1749949"
+       x="81.227081"
+       y="146.57918" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       id="toggle-trap-door-1"
+       width="1.5874993"
+       height="3.1749949"
+       x="-159.54375"
+       y="96.308334"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       id="toggle-grating-1"
+       width="1.5874993"
+       height="3.1749949"
+       x="-40.481251"
+       y="112.18333"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       id="toggle-magic-flag-2"
+       width="1.5874993"
+       height="3.1749949"
+       x="267.7583"
+       y="469.37073" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       id="toggle-rainbow-flag-1"
+       width="1.5874993"
+       height="3.1749949"
+       x="304.79999"
+       y="186.26668" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       id="toggle-rainbow-flag-2"
+       width="1.5874993"
+       height="3.1749949"
+       x="568.06036"
+       y="416.45419" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       id="toggle-trap-door-2"
+       width="1.5874993"
+       height="3.1749949"
+       x="351.10211"
+       y="-324.37915"
+       transform="rotate(90)" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       id="toggle-grating-2"
+       width="1.5874993"
+       height="3.1749949"
+       x="-399.25626"
+       y="141.28749"
+       transform="rotate(-90)" />
   </g>
   <g
      inkscape:label="Rooms"
