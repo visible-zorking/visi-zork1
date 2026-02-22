@@ -3,6 +3,7 @@
   <style id="style1">#roomlayer rect { fill:#F8F0E8; stroke:#000; stroke-width:0.7; }
 #roomlayer rect.Selected { fill:#FFD080; }
 #mobilelayer g.Offstage { display:none; }
+#connlayer .Invisible { display:none; }
 
 @font-face {
     font-family: "Lato";
@@ -212,6 +213,15 @@
     <path style="display:inline;fill:none;stroke:#4d4d4d;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;paint-order:stroke fill markers" d="m 584.51645,63.499951 c 1.32292,0.26458 5.29167,3.43958 5.29167,0 0,-3.439577 -3.96875,-0.26458 -5.29167,0" id="path152-3"/>
     <path style="display:inline;fill:none;stroke:#4d4d4d;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;paint-order:stroke fill markers" d="m 605.89582,71.437448 c -0.26458,1.32292 -3.43958,5.291667 0,5.291667 3.43958,0 0.26458,-3.968747 0,-5.291667" id="path152-12"/>
     <path style="display:inline;fill:none;stroke:#4d4d4d;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;paint-order:stroke fill markers" d="m 597.95832,26.670992 c 0.26458,-1.322917 3.43958,-5.291667 0,-5.291667 -3.43958,0 -0.26458,3.96875 0,5.291667" id="path152-0"/>
+    <rect style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers" id="toggle-magic-flag-1" width="1.5874993" height="3.1749949" x="81.227081" y="146.57918"/>
+    <rect style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers" id="toggle-trap-door-1" width="1.5874993" height="3.1749949" x="-159.54375" y="96.308334" transform="rotate(-90)"/>
+    <rect style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers" id="toggle-grating-1" width="1.5874993" height="3.1749949" x="-40.481251" y="112.18333" transform="rotate(-90)"/>
+    <rect style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers" id="toggle-magic-flag-2" width="1.5874993" height="3.1749949" x="267.7583" y="469.37073"/>
+    <rect style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers" id="toggle-rainbow-flag-1" width="1.5874993" height="3.1749949" x="304.79999" y="186.26668"/>
+    <rect style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers" id="toggle-rainbow-flag-2" width="1.5874993" height="3.1749949" x="568.06036" y="416.45419"/>
+    <rect style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers" id="toggle-trap-door-2" width="1.5874993" height="3.1749949" x="351.10211" y="-324.37915" transform="rotate(90)"/>
+    <rect style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers" id="toggle-grating-2" width="1.5874993" height="3.1749949" x="-399.25626" y="141.28749" transform="rotate(-90)"/>
+    <rect style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers" id="toggle-lld-flag" width="1.5874993" height="3.1749949" x="-466.46042" y="424.39166" transform="rotate(-90)"/>
   </g>
   <g id="roomlayer" style="display:inline">
     <rect id="r-kitchen" width="21.166666" height="15.875001" x="113.77083" y="140.22925" ry="2.645834"/>
