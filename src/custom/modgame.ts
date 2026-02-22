@@ -21,6 +21,8 @@ export function map_toggle_doors(zstate: ZStatePlus): ExtraToggle[]
     // Once again we rely on the fact that the zstate reports objects in order (1-based).
     let trapflag = zstate.objects[182].attrs & 0x100000; // TRAP-DOOR & OPENBIT
     let trapstate = trapflag ? 'Invisible' : 'Visible';
+    let grateflag = zstate.objects[173].attrs & 0x100000; // GRATE & OPENBIT
+    let gratestate = grateflag ? 'Invisible' : 'Visible';
     let magicflag = zstate.globals[143]; // MAGIC-FLAG
     let magicstate = magicflag ? 'Invisible' : 'Visible';
     let rainbowflag = zstate.globals[142]; // RAINBOW-FLAG
@@ -29,6 +31,8 @@ export function map_toggle_doors(zstate: ZStatePlus): ExtraToggle[]
     return [
         { id: 'toggle-trap-door-1', class: trapstate },
         { id: 'toggle-trap-door-2', class: trapstate },
+        { id: 'toggle-grating-1', class: gratestate },
+        { id: 'toggle-grating-2', class: gratestate },
         { id: 'toggle-magic-flag-1', class: magicstate },
         { id: 'toggle-magic-flag-2', class: magicstate },
         { id: 'toggle-rainbow-flag-1', class: rainbowstate },
