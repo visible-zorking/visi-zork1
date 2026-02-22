@@ -53,6 +53,7 @@
      id="style1">#roomlayer rect { fill:#F8F0E8; stroke:#000; stroke-width:0.7; }
 #roomlayer rect.Selected { fill:#FFD080; }
 #mobilelayer g.Offstage { display:none; }
+#connlayer .Invisible { display:none; }
 </style>
   <defs
      id="defs1">
