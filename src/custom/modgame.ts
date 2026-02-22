@@ -23,12 +23,16 @@ export function map_toggle_doors(zstate: ZStatePlus): ExtraToggle[]
     let trapstate = trapflag ? 'Invisible' : 'Visible';
     let magicflag = zstate.globals[143]; // MAGIC-FLAG
     let magicstate = magicflag ? 'Invisible' : 'Visible';
+    let rainbowflag = zstate.globals[142]; // RAINBOW-FLAG
+    let rainbowstate = rainbowflag ? 'Invisible' : 'Visible';
     
     return [
-        { id:'toggle-trap-door-1', class:trapstate },
-        { id:'toggle-trap-door-2', class:trapstate },
-        { id:'toggle-magic-flag-1', class:magicstate },
-        { id:'toggle-magic-flag-2', class:magicstate },
+        { id: 'toggle-trap-door-1', class: trapstate },
+        { id: 'toggle-trap-door-2', class: trapstate },
+        { id: 'toggle-magic-flag-1', class: magicstate },
+        { id: 'toggle-magic-flag-2', class: magicstate },
+        { id: 'toggle-rainbow-flag-1', class: rainbowstate },
+        { id: 'toggle-rainbow-flag-2', class: rainbowstate },
     ];
 }
 
