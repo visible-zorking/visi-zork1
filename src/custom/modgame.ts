@@ -18,10 +18,15 @@ export function get_combat_info(engine: GnustoEngine, state: ZState): any
 
 export function map_toggle_doors(zstate: ZStatePlus): ExtraToggle[]
 {
-    let magicstate = zstate.globals[143] ? 'Invisible' : 'Visible'; // MAGIC-FLAG
-    console.log('### map_toggle_doors: magicstate=', magicstate);
+    // Once again we rely on the fact that the zstate reports objects in order (1-based).
+    let trapflag = zstate.objects[182].attrs & 0x100000; // TRAP-DOOR & OPENBIT
+    let trapstate = trapflag ? 'Invisible' : 'Visible';
+    let magicflag = zstate.globals[143]; // MAGIC-FLAG
+    let magicstate = magicflag ? 'Invisible' : 'Visible';
     
     return [
+        { id:'toggle-trap-door-1', class:trapstate },
+        { id:'toggle-trap-door-2', class:trapstate },
         { id:'toggle-magic-flag-1', class:magicstate },
         { id:'toggle-magic-flag-2', class:magicstate },
     ];
