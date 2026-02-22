@@ -24,14 +24,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="572.99998"
-     inkscape:cy="223.49999"
+     showgrid="true"
+     inkscape:zoom="2"
+     inkscape:cx="1596.25"
+     inkscape:cy="1565.75"
      inkscape:window-width="1976"
      inkscape:window-height="1103"
      inkscape:window-x="2114"
-     inkscape:window-y="66"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="connlayer">
     <inkscape:grid
@@ -47,7 +47,7 @@
        opacity="0.14902"
        empspacing="5"
        enabled="true"
-       visible="false" />
+       visible="true" />
   </sodipodi:namedview>
   <style
      id="style1">#roomlayer rect { fill:#F8F0E8; stroke:#000; stroke-width:0.7; }
@@ -1033,6 +1033,14 @@
        height="3.1749949"
        x="-399.25626"
        y="141.28749"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       id="toggle-lld-flag"
+       width="1.5874993"
+       height="3.1749949"
+       x="-466.46042"
+       y="424.39166"
        transform="rotate(-90)" />
   </g>
   <g
