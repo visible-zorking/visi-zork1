@@ -1,6 +1,7 @@
 import { unpack_address } from '../visi/gametypes';
 import { gamedat_routine_names, gamedat_global_names, gamedat_string_map } from './gamedat';
-import { GnustoEngine, ZState } from '../visi/zstate';
+import { GnustoEngine, ZState, ZStatePlus } from '../visi/zstate';
+import { ExtraToggle } from '../visi/map';
 
 /* Pull the "probability of waking" (V-PROB) entries out of the VILLAINS
    table. We'll display these in the Combat tab.
@@ -13,6 +14,17 @@ export function get_combat_info(engine: GnustoEngine, state: ZState): any
     return {
         awaken: [ trollwake, thiefwake, cyclopswake ]
     };
+}
+
+export function map_toggle_doors(zstate: ZStatePlus): ExtraToggle[]
+{
+    let magicstate = zstate.globals[143] ? 'Invisible' : 'Visible'; // MAGIC-FLAG
+    console.log('### map_toggle_doors: magicstate=', magicstate);
+    
+    return [
+        { id:'toggle-magic-flag-1', class:magicstate },
+        { id:'toggle-magic-flag-2', class:magicstate },
+    ];
 }
 
 export function show_commentary_hook(topic: string, engine: GnustoEngine): string|null
