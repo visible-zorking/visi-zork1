@@ -998,28 +998,28 @@
        y="112.18333"
        transform="rotate(-90)" />
     <rect
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
        id="toggle-magic-flag-2"
        width="1.5874993"
        height="3.1749949"
        x="267.7583"
        y="469.37073" />
     <rect
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
        id="toggle-rainbow-flag-1"
        width="1.5874993"
        height="3.1749949"
        x="304.79999"
        y="186.26668" />
     <rect
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
        id="toggle-rainbow-flag-2"
        width="1.5874993"
        height="3.1749949"
        x="568.06036"
        y="416.45419" />
     <rect
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
        id="toggle-trap-door-2"
        width="1.5874993"
        height="3.1749949"
@@ -1027,7 +1027,7 @@
        y="-324.37915"
        transform="rotate(90)" />
     <rect
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
        id="toggle-grating-2"
        width="1.5874993"
        height="3.1749949"
@@ -1095,8 +1095,7 @@
        height="15.875001"
        x="18.520832"
        y="166.68767"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-path"
        width="21.166666"
@@ -1131,784 +1130,686 @@
        height="15.875001"
        x="185.20833"
        y="140.22925"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-forest-2"
        width="21.166666"
        height="15.875001"
        x="185.20833"
        y="63.49995"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-forest-3"
        width="21.166666"
        height="15.875001"
        x="185.20833"
        y="211.66695"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-mountains"
        width="21.166666"
        height="15.875001"
        x="238.125"
        y="63.49995"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-canyon-view"
        width="21.166666"
        height="15.875001"
        x="232.83333"
        y="164.04181"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-cliff-middle"
        width="21.166666"
        height="15.875001"
        x="246.0625"
        y="187.85439"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-canyon-bottom"
        width="21.166666"
        height="15.875001"
        x="259.29166"
        y="211.66695"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-cellar"
        width="21.166666"
        height="15.875001"
        x="317.5"
        y="354.54193"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-troll-room"
        width="21.166666"
        height="15.875001"
        x="317.5"
        y="328.08359"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-ew-passage"
        width="21.166666"
        height="15.875001"
        x="354.54166"
        y="328.08359"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-round-room"
        width="21.166668"
        height="21.16667"
        x="396.875"
        y="325.43777"
-       ry="7.9374862"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="7.9374862" />
     <rect
        id="r-ns-passage"
        width="21.166666"
        height="15.875001"
        x="396.875"
        y="296.33359"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-chasm-room"
        width="21.166666"
        height="15.875001"
        x="396.875"
        y="269.87524"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-east-of-chasm"
        width="21.166666"
        height="15.875001"
        x="317.5"
        y="386.29193"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-gallery"
        width="21.166666"
        height="15.875001"
        x="354.54166"
        y="386.29193"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-studio"
        width="21.166666"
        height="15.875001"
        x="354.54166"
        y="359.83359"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-narrow-passage"
        width="21.166666"
        height="15.875001"
        x="396.875"
        y="359.83359"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-mirror-room-2"
        width="21.166666"
        height="15.875001"
        x="396.875"
        y="391.58359"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-winding-passage"
        width="21.166666"
        height="15.875001"
        x="378.35416"
        y="418.04175"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-tiny-cave"
        width="21.166666"
        height="15.875001"
        x="415.39581"
        y="418.04175"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-entrance-to-hades"
        width="21.166666"
        height="15.875001"
        x="415.39584"
        y="444.49991"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-land-of-living-dead"
        width="21.166666"
        height="15.875001"
        x="415.39584"
        y="470.95807"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-loud-room"
        width="21.166666"
        height="15.875001"
        x="433.91666"
        y="328.08359"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-engravings-cave"
        width="21.166666"
        height="15.875001"
        x="433.91666"
        y="359.83359"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-damp-cave"
        width="21.166666"
        height="15.875001"
        x="465.66666"
        y="328.08359"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-white-cliffs-north"
        width="21.166666"
        height="15.875001"
        x="502.70831"
        y="328.08359"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-white-cliffs-south"
        width="21.166666"
        height="15.875001"
        x="502.70831"
        y="354.54193"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-dome-room"
        width="21.166666"
        height="15.875001"
        x="465.66666"
        y="359.83359"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-torch-room"
        width="21.166666"
        height="15.875001"
        x="465.66666"
        y="386.29193"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-north-temple"
        width="21.166666"
        height="15.875001"
        x="465.66666"
        y="412.75009"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-egypt-room"
        width="21.166666"
        height="15.875001"
        x="497.41666"
        y="412.75015"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-south-temple"
        width="21.166666"
        height="15.875001"
        x="465.66666"
        y="439.20831"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-1"
        width="13.229174"
        height="13.229179"
        x="194.4687"
        y="279.13583"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-4"
        width="13.22916"
        height="13.229145"
        x="175.94788"
        y="302.94836"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-dead-end-1"
        width="13.229179"
        height="13.229155"
        x="218.28119"
        y="289.71918"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-3"
        width="13.22916"
        height="13.229166"
        x="152.13538"
        y="321.46909"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-2"
        width="13.229161"
        height="13.229166"
        x="128.32288"
        y="321.46909"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-5"
        width="15.874993"
        height="15.875001"
        x="161.3958"
        y="343.9585"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-dead-end-2"
        width="13.22917"
        height="13.229167"
        x="189.17703"
        y="345.28143"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-reservoir-south"
        width="21.166666"
        height="15.875001"
        x="431.27081"
        y="240.77104"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-deep-canyon"
        width="21.166666"
        height="15.875001"
        x="457.72916"
        y="261.93774"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-stream-view"
        width="21.166666"
        height="15.875001"
        x="391.58331"
        y="240.77104"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-reservoir"
        width="21.166666"
        height="15.875001"
        x="431.27081"
        y="216.95847"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-reservoir-north"
        width="21.166666"
        height="15.875001"
        x="431.27081"
        y="193.1459"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-atlantis-room"
        width="21.166666"
        height="15.875001"
        x="431.27081"
        y="166.68748"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-mirror-room-1"
        width="21.166666"
        height="15.875001"
        x="412.75"
        y="113.77074"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-twisting-passage"
        width="21.166666"
        height="15.875001"
        x="394.22916"
        y="140.22906"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-small-cave"
        width="21.166666"
        height="15.875001"
        x="431.27081"
        y="140.22906"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-in-stream"
        width="21.166666"
        height="15.875001"
        x="391.58331"
        y="216.95847"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-6"
        width="13.229161"
        height="13.229168"
        x="128.32288"
        y="369.09381"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-9"
        width="13.229165"
        height="13.229165"
        x="93.927078"
        y="379.67706"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-7"
        width="13.22916"
        height="13.229168"
        x="175.94788"
        y="369.09381"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-15"
        width="13.229159"
        height="13.22917"
        x="199.76038"
        y="424.65598"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-14"
        width="13.229164"
        height="13.229149"
        x="194.4687"
        y="398.19781"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-8"
        width="13.229158"
        height="13.229149"
        x="223.57289"
        y="390.26038"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-dead-end-3"
        width="13.229178"
        height="13.229149"
        x="234.15623"
        y="414.07272"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-13"
        width="13.22917"
        height="13.229144"
        x="75.406258"
        y="398.19781"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-10"
        width="13.22916"
        height="13.229164"
        x="96.572914"
        y="411.42688"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-11"
        width="13.22917"
        height="13.229184"
        x="75.406258"
        y="432.59344"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maze-12"
        width="13.229169"
        height="13.229149"
        x="51.593754"
        y="414.07272"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-dead-end-4"
        width="13.229169"
        height="13.229149"
        x="51.593754"
        y="390.26038"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-grating-room"
        width="21.166656"
        height="15.874983"
        x="129.6458"
        y="402.16653"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-cold-passage"
        width="21.166666"
        height="15.875001"
        x="412.75"
        y="87.312447"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-slide-room"
        width="21.166666"
        height="15.875001"
        x="365.125"
        y="87.312447"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-mine-entrance"
        width="21.166666"
        height="15.875001"
        x="365.125"
        y="60.85413"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-squeeky-room"
        width="21.166666"
        height="15.875001"
        x="333.375"
        y="60.85413"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-bat-room"
        width="21.166666"
        height="15.875001"
        x="333.375"
        y="34.395821"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-dam-room"
        width="21.166666"
        height="15.875001"
        x="484.1875"
        y="240.77104"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-dam-lobby"
        width="21.166666"
        height="15.875001"
        x="484.1875"
        y="214.31262"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-maintenance-room"
        width="21.166666"
        height="15.875001"
        x="484.1875"
        y="190.50005"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-dam-base"
        width="21.166666"
        height="15.875001"
        x="507.99997"
        y="272.52109"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-cyclops-room"
        width="21.166658"
        height="15.874984"
        x="240.77086"
        y="463.02032"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-treasure-room"
        width="21.166658"
        height="15.874984"
        x="261.93756"
        y="439.20795"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-strange-passage"
        width="21.166658"
        height="15.874984"
        x="275.16675"
        y="463.02032"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-river-1"
        width="21.166666"
        height="15.875001"
        x="539.75"
        y="272.52109"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-river-2"
        width="21.166666"
        height="15.875001"
        x="539.75"
        y="301.62527"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-river-3"
        width="21.166666"
        height="15.875001"
        x="539.75"
        y="328.08359"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-river-4"
        width="21.166666"
        height="15.875001"
        x="539.75"
        y="354.54193"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-river-5"
        width="21.166666"
        height="15.875001"
        x="539.75"
        y="378.3544"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-sandy-beach"
        width="21.166666"
        height="15.875001"
        x="576.79163"
        y="354.54193"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-shore"
        width="21.166666"
        height="15.875001"
        x="576.79163"
        y="378.35443"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-sandy-cave"
        width="21.166666"
        height="15.875001"
        x="600.60413"
        y="336.02109"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-aragain-falls"
        width="21.166666"
        height="15.875001"
        x="576.79163"
        y="410.10431"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-end-of-rainbow"
        width="21.166666"
        height="15.875001"
        x="280.45834"
        y="179.91685"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-on-rainbow"
        width="21.166666"
        height="15.875001"
        x="539.74994"
        y="410.10431"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-shaft-room"
        width="21.166666"
        height="15.875001"
        x="502.70831"
        y="34.395821"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-smelly-room"
        width="21.166666"
        height="15.875001"
        x="502.70831"
        y="7.937489"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-gas-room"
        width="21.166666"
        height="15.875001"
        x="537.10419"
        y="29.104155"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-mine-1"
        width="15.875003"
        height="15.874997"
        x="568.85419"
        y="55.562454"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-mine-2"
        width="15.875003"
        height="15.874997"
        x="590.02081"
        y="26.458324"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-mine-3"
        width="15.875003"
        height="15.874997"
        x="597.95831"
        y="55.562454"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-mine-4"
        width="15.875003"
        height="15.874997"
        x="582.08331"
        y="82.020782"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-ladder-top"
        width="21.166666"
        height="15.875001"
        x="579.43744"
        y="105.83327"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-ladder-bottom"
        width="21.166666"
        height="15.875001"
        x="579.4375"
        y="129.64572"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-dead-end-5"
        width="15.874976"
        height="15.87501"
        x="582.08331"
        y="156.10414"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-timber-room"
        width="21.166666"
        height="15.875001"
        x="547.6875"
        y="129.64572"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-lower-shaft"
        width="21.166666"
        height="15.875001"
        x="502.70831"
        y="129.64572"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
     <rect
        id="r-machine-room"
        width="21.166666"
        height="15.875001"
        x="502.70831"
        y="156.10414"
-       ry="2.6458292"
-       style="display:inline;fill:#f8f0e8;stroke:#000000;stroke-width:0.7" />
+       ry="2.6458292" />
   </g>
   <g
      inkscape:groupmode="layer"
