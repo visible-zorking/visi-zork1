@@ -24,14 +24,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     showgrid="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="573.11005"
-     inkscape:cy="1471.1357"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="572.99998"
+     inkscape:cy="223.49999"
      inkscape:window-width="1976"
      inkscape:window-height="1103"
      inkscape:window-x="2114"
-     inkscape:window-y="94"
+     inkscape:window-y="66"
      inkscape:window-maximized="0"
      inkscape:current-layer="connlayer">
     <inkscape:grid
@@ -47,7 +47,7 @@
        opacity="0.14902"
        empspacing="5"
        enabled="true"
-       visible="true" />
+       visible="false" />
   </sodipodi:namedview>
   <style
      id="style1">#roomlayer rect { fill:#F8F0E8; stroke:#000; stroke-width:0.7; }
