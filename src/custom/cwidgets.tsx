@@ -6,7 +6,8 @@ import { signed_zvalue } from '../visi/gametypes';
 import { ObjectData, GlobalData } from '../visi/gametypes';
 import { gamedat_ids, gamedat_distances, gamedat_object_treesort } from './gamedat';
 import { ArgShowObject, ArgShowProperty } from '../visi/actshowers';
-import { StackCallCtx } from '../visi/context';
+import { VarShowObject, VarShowProperty } from '../visi/globshow';
+import { ReactCtx, StackCallCtx } from '../visi/context';
 
 export function contains_label(obj: ObjectData) : string
 {
@@ -73,6 +74,20 @@ export function ObjListSorter({ followKey, setFollowKey } : { followKey:number, 
 
 export function global_value_display(tag: string, value: number, glo: GlobalData) : JSX.Element|null
 {
+    switch (tag) {
+        
+    case 'PRSO':
+        let rctx = useContext(ReactCtx);
+        if (rctx.zstate.globals[120] == 137) {  /* PRSA == WALK */
+            return (
+                <VarShowProperty value={ value } />
+            )
+        }
+        return (
+            <VarShowObject value={ value } />
+        )
+    }
+    
     return null;
 }
 
