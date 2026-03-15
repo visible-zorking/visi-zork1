@@ -1,3 +1,4 @@
+'use strict';
 
 function gamedat_ids_general(gamedat_ids)
 {
