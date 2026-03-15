@@ -1,5 +1,13 @@
 'use strict';
 
+/* Provide game-specific values for the gamedat_ids global object.
+   These functions are called from gamedat.js at script-load time.
+
+   This is the only hand-written file in the src/games directory.
+*/
+
+/* Set up values that apply to the Z-machine generally.
+ */
 function gamedat_ids_general(gamedat_ids)
 {
     gamedat_ids.GAMEID = 'zork1-r88-s840726';
@@ -9,11 +17,15 @@ function gamedat_ids_general(gamedat_ids)
     gamedat_ids.DICT_WORD_SIZE = 7;
     gamedat_ids.PROP_TABLE_START = 0x0BB8; // prop address for first obj
     gamedat_ids.PROP_TABLE_END = 0x2270;   // just before globals, header $0C-1
-    gamedat_ids.C_TABLE_LEN = 180;
 }
 
+/* Set up values defined in the ZIL code. This must be called after
+   gamedat.js sets up all the data maps.
+ */
 function gamedat_ids_specific(gamedat_ids)
 {
+    gamedat_ids.C_TABLE_LEN = gamedat_constant_names.get('C-TABLELEN').value;
+    
     gamedat_ids.ROOMS = gamedat_object_names.get('ROOMS').onum;
     gamedat_ids.GLOBAL_OBJECTS = gamedat_object_names.get('GLOBAL-OBJECTS').onum;
     gamedat_ids.LOCAL_GLOBALS = gamedat_object_names.get('LOCAL-GLOBALS').onum;
@@ -23,6 +35,9 @@ function gamedat_ids_specific(gamedat_ids)
     gamedat_ids.STARTROOM = gamedat_object_names.get('WEST-OF-HOUSE').onum;
     gamedat_ids.PSEUDO_OBJECT = gamedat_object_names.get('PSEUDO-OBJECT').onum;
 
+    /* Ordering of objects in the World pane. This doesn't change much between
+       games, but we handle it as game-specific code just in case.
+    */
     for (let obj of window.gamedat_objects) {
         /* The global container itself counts as a global for our purposes. */
         if (obj.origparent == gamedat_ids.GLOBAL_OBJECTS || obj.onum == gamedat_ids.GLOBAL_OBJECTS)
