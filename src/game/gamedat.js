@@ -38,11 +38,11 @@ window.gamedat_ids = {};
     gamedat_ids.GAMEID = 'zork1-r88-s840726';
     gamedat_ids.MAX_OBJECTS = 250;
     gamedat_ids.MAX_GLOBALS = 158;
-    gamedat_ids.DICT_START = 15137;
+    gamedat_ids.DICT_START = 15137;         // header word $08
     gamedat_ids.MAX_DICT_WORD = window.gamedat_dictwords.length;
     gamedat_ids.DICT_WORD_SIZE = 7;
-    gamedat_ids.PROP_TABLE_START = 0x0BB8;
-    gamedat_ids.PROP_TABLE_END = 0x2270;
+    gamedat_ids.PROP_TABLE_START = 0x0BB8;  // prop address for first obj
+    gamedat_ids.PROP_TABLE_END = 0x2270;    // just before globals, header $0C
     gamedat_ids.C_TABLE_LEN = 180;
 
     for (let obj of window.gamedat_properties) {
