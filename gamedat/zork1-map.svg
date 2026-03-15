@@ -25,13 +25,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="2"
-     inkscape:cx="1596.25"
-     inkscape:cy="1565.75"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="2073.2371"
+     inkscape:cy="907.57155"
      inkscape:window-width="1976"
      inkscape:window-height="1103"
      inkscape:window-x="2114"
-     inkscape:window-y="38"
+     inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="connlayer">
     <inkscape:grid
@@ -773,13 +773,9 @@
        id="path162" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers"
-       d="M 494.77083,216.95828 V 203.72911"
-       id="path163" />
-    <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers"
-       d="m 486.83333,198.43744 c -31.75001,-1e-5 -5.29166,10.58334 7.9375,11.90625 13.22916,1.32291 37.04165,11.90624 7.9375,11.90625"
-       id="path164"
-       sodipodi:nodetypes="czc" />
+       d="m 494.77083,216.95828 c -10e-6,-10.58327 -10e-6,-15.87494 10.58332,-15.87494"
+       id="path163"
+       sodipodi:nodetypes="cc" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
        d="m 502.70833,248.70828 5.29166,-1e-5 c 10.58333,0 10.58333,2.64583 10.58333,21.16666 v 5.29167"
@@ -1043,6 +1039,11 @@
        x="-466.46042"
        y="424.39166"
        transform="rotate(-90)" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 513.29165,206.37501 c 10e-6,10.58327 10e-6,15.87494 -10.58332,15.87494"
+       id="path33"
+       sodipodi:nodetypes="cc" />
   </g>
   <g
      inkscape:label="Rooms"
@@ -1620,8 +1621,8 @@
        id="r-maintenance-room"
        width="21.166666"
        height="15.875001"
-       x="484.1875"
-       y="190.50005"
+       x="502.70831"
+       y="193.14584"
        ry="2.6458292" />
     <rect
        id="r-dam-base"
@@ -3109,18 +3110,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.2003px;line-height:1.3;font-family:Lato;-inkscape-font-specification:'Lato Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.755978;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#marker46);paint-order:stroke fill markers"
-       x="494.79611"
-       y="197.6716"
+       x="513.31696"
+       y="200.3174"
        id="text167"><tspan
          sodipodi:role="line"
          id="tspan167"
          style="stroke-width:0.755978"
-         x="494.79611"
-         y="197.6716">Maintenance</tspan><tspan
+         x="513.31696"
+         y="200.3174">Maintenance</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.755978"
-         x="494.79611"
-         y="201.83199"
+         x="513.31696"
+         y="204.47778"
          id="tspan168">Room</tspan></text>
     <text
        xml:space="preserve"
