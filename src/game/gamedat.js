@@ -39,7 +39,6 @@ window.gamedat_ids = {};
     gamedat_ids.MAX_OBJECTS = 250;         // "Object count"
     gamedat_ids.MAX_GLOBALS = 158;         // 1+LastGlobal
     gamedat_ids.DICT_START = 15137;        // header word $08
-    gamedat_ids.MAX_DICT_WORD = window.gamedat_dictwords.length;
     gamedat_ids.DICT_WORD_SIZE = 7;
     gamedat_ids.PROP_TABLE_START = 0x0BB8; // prop address for first obj
     gamedat_ids.PROP_TABLE_END = 0x2270;   // just before globals, header $0C-1
