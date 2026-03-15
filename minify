@@ -27,7 +27,8 @@ gamedat.js)
        src/game/savefiles.js \
        src/game/commentary.js \
        src/game/mapinfo.js \
-       src/game/gamedat.js"
+       src/game/gameids.js \
+       visiterp/src/gamedat/gamedat.js"
   ;;
 
 lib.js)
