@@ -3,6 +3,7 @@ import { useContext } from 'react';
 
 import { ReactCtx } from '../visi/context';
 
+import { gamedat_ids } from '../visi/gamedat';
 import { CallActivity } from '../visi/activity';
 import { TimerTable } from '../visi/timers';
 import { GrammarTable } from '../visi/grammar';
@@ -14,7 +15,6 @@ import { GlobalState } from '../visi/globstate';
 import { SourceFileList } from '../visi/filelist';
 import { CombatTables } from './combat';
 import { AboutPage } from './about';
-import { gamedat_ids } from './gamedat';
 import { map_toggle_doors } from './modgame';
 
 const tab_list = [

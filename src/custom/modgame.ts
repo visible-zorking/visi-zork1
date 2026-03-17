@@ -1,5 +1,5 @@
 import { unpack_address } from '../visi/gametypes';
-import { gamedat_routine_names, gamedat_global_names, gamedat_string_map } from './gamedat';
+import { gamedat_routine_names, gamedat_global_names, gamedat_string_map } from '../visi/gamedat';
 import { GnustoEngine, ZState, ZStatePlus } from '../visi/zstate';
 import { ExtraToggle } from '../visi/map';
 

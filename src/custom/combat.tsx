@@ -3,7 +3,7 @@ import { useState, useContext } from 'react';
 
 import { zobj_properties } from '../visi/zstate';
 import { signed_zvalue } from '../visi/gametypes';
-import { gamedat_object_names, gamedat_routine_names, gamedat_global_names } from './gamedat';
+import { gamedat_object_names, gamedat_routine_names, gamedat_global_names } from '../visi/gamedat';
 
 import { ZilSourceLoc } from '../visi/main';
 import { ReactCtx } from '../visi/context';

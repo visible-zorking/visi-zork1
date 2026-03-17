@@ -1,7 +1,7 @@
 import React from 'react';
 import { useContext } from 'react';
 
-import { gamedat_ids, gamedat_object_ids, gamedat_routine_names } from './gamedat';
+import { gamedat_ids, gamedat_object_ids, gamedat_routine_names } from '../visi/gamedat';
 import { ZObject } from '../visi/zstate';
 
 import { ReactCtx } from '../visi/context';

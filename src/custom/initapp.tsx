@@ -1,7 +1,7 @@
 import React from 'react';
 import { Root, createRoot } from 'react-dom/client';
 
-import { gamedat_ids, gamedat_global_names } from './gamedat';
+import { gamedat_ids, gamedat_global_names } from '../visi/gamedat';
 import { get_combat_info } from './modgame';
 
 import { GnustoRunner, GnustoEngine } from '../visi/zstate';
