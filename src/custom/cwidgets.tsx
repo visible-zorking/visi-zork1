@@ -91,6 +91,11 @@ export function global_value_display(tag: string, value: number, glo: GlobalData
     return null;
 }
 
+export function property_value_display(tag: string, values: number[]) : JSX.Element|null
+{
+    return null;
+}
+
 export function stack_call_arg_display(tag: string, value: number) : JSX.Element|null
 {
     switch (tag) {
