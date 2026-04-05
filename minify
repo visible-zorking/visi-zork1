@@ -2,8 +2,7 @@
 set -e
 
 # Minify collections of .js files into smaller .js files.
-# This uses the terser tool, which is installed as a dependency
-# of rollup.
+# This uses the terser module, which is installed via package.json.
 
 filename=$1
 
@@ -67,4 +66,4 @@ parchment.js)
 
 esac
 
-npx terser --config-file terser.config.json -o js/$filename -- $src
+pnpm exec terser --config-file terser.config.json -o js/$filename -- $src
