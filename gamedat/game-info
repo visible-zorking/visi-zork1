@@ -437,8 +437,8 @@ Global 83 P-MERGE  TABLE
 Global 84 P-BUTS  TABLE
 Global 85 P-PRSI  TABLE
 Global 86 P-PRSO  TABLE
-Global 87 P-ADJN
-Global 88 P-ADVERB
+Global 87 P-ADJN  WORD
+Global 88 P-ADVERB  UNUSED
 Global 89 P-ADJ
 Global 90 P-NAM
 Global 91 P-GWIMBIT
