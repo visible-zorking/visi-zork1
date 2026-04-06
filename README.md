@@ -163,7 +163,9 @@ If you want to modify the project, you'll need to install some stuff.
 
 As you see above, the Visible Zorker has a lot of moving parts. Some are written in Javascript; others are Typescript, which must be compiled to Javascript. The UI is built with the React display library.
 
-To build everything from a standing start:
+To build everything from a standing start, you'll need the [pnpm][] package manager.
+
+[pnpm]: https://pnpm.io/
 
 ```
 pnpm install
@@ -182,13 +184,11 @@ pnpm run buildts
 
 This recompiles Typescript but skips the JS minification steps, which saves a lot of time.
 
-If you want to rebuild the game data files, do:
+If you edit `gamedat/game-info`, or (aoogah klaxon) the ZIL source code, you'll need to rebuild the game data files:
 
 ```
 pnpm run builddata
 ```
-
-There's no reason for you to do this, because the repo contains them fully built. But I'm documenting it anyway.
 
 ## Sources and acknowledgements
 
