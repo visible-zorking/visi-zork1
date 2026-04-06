@@ -165,18 +165,18 @@ As you see above, the Visible Zorker has a lot of moving parts. Some are written
 To build everything from a standing start:
 
 ```
-npm install
-npm run build
+pnpm install
+pnpm run buildjs
 ```
 
 This regenerates (almost) everything in the [`js`](./js) directory. Hopefully the result will be identical, or almost identical, to what was already there.
 
-If you're doing dev work, you may want to load [`index-full.html`](./index-full.html) instead of `index.html`. The `index-full.html` version uses the *non*-minified Javascript from the [`visiterp/src`][terpsrc] directory. You can edit JS files and reload `index-full.html` without an `npm run build` step, which makes for a much faster work loop.
+If you're doing dev work, you may want to load [`index-full.html`](./index-full.html) instead of `index.html`. The `index-full.html` version uses the *non*-minified Javascript from the [`visiterp/src`][terpsrc] directory. You can edit JS files and reload `index-full.html` without an `pnpm run buildjs` step, which makes for a much faster work loop.
 
 If you edit the Typescript files (`*.ts` and `*.tsx`), you *do* have to recompile them, even when playing from `index-full.html`. You'll want the following command:
 
 ```
-npm run buildts
+pnpm run buildts
 ```
 
 This recompiles Typescript but skips the JS minification steps, which saves a lot of time.
@@ -184,13 +184,10 @@ This recompiles Typescript but skips the JS minification steps, which saves a lo
 If you want to rebuild the game data files, do:
 
 ```
-npm run recreate-gamedata
-npm run recolor-source
-npm run regenerate-commentary
-npm run reparse-map
+pnpm run builddata
 ```
 
-There's no reason for you to do this, but I'm documenting it anyway.
+There's no reason for you to do this, because the repo contains them fully built. But I'm documenting it anyway.
 
 ## Sources and acknowledgements
 
