@@ -1,14 +1,14 @@
 # The Visible Zorker: an interactive fiction visualizer
 
 - Designed by Andrew Plotkin <erkyrath@eblong.com>
-- Web site: https://eblong.com/infocom/visi-zork1/
+- Web site: https://eblong.com/infocom/visi/zork1/
 
 This is a web app that plays Zork, and simultaneously displays the code that runs Zork under the hood. It allows you to explore the implementation of Zork in the same way that you explore the game world. Call it an exercise in exploratory coding.
 
 To try the Visible Zorker, [play it here][visizork]. For more about the intent and origins of the project, see my [blog post on the subject][post].
 
 [post]: https://blog.zarfhome.com/2025/01/the-visible-zorker
-[visizork]: https://eblong.com/infocom/visi-zork1/
+[visizork]: https://eblong.com/infocom/visi/zork1/
 
 ### What to do
 
@@ -24,14 +24,14 @@ To refer to specific features of Zork from an external web site, use a link like
 
 Deep link formats:
 
-- https://eblong.com/infocom/visi-zork1/#OBJ:EGG
-- https://eblong.com/infocom/visi-zork1/#RTN:GO
-- https://eblong.com/infocom/visi-zork1/#GLOB:HERE
-- https://eblong.com/infocom/visi-zork1/#CONST:ZORK-NUMBER
+- https://eblong.com/infocom/visi/zork1/#OBJ:EGG
+- https://eblong.com/infocom/visi/zork1/#RTN:GO
+- https://eblong.com/infocom/visi/zork1/#GLOB:HERE
+- https://eblong.com/infocom/visi/zork1/#CONST:ZORK-NUMBER
 
 You can also specify any source line by filename and line number:
 
-- https://eblong.com/infocom/visi-zork1/#SRC:GVERBS-90
+- https://eblong.com/infocom/visi/zork1/#SRC:GVERBS-90
 
 ## The contents of this repository
 
