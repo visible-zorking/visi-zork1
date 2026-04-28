@@ -27,7 +27,7 @@ export function CombatTables()
                 combat rules, so his entries are never used.)
             </p>
             <p>
-                The table shows what weapon the monster is weak again,
+                The table shows what weapon the monster is weak against,
                 the weakness penalty, the awakening probability (if it is
                 unconscious), and the table of melee outcome messages. Also
                 {' '}<code>STRENGTH</code>, which is really a property rather
