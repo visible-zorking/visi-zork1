@@ -515,6 +515,7 @@ Global 157 VERBS  table created from SYNTAX
 
 RoutineType - CLAUSE - - WORD
 RoutineType - DO-WALK PROP
+RoutineType - FIND-IN OBJ ATTR
 RoutineType - GO-NEXT TABLE
 RoutineType - GWIM - - PREP
 RoutineType - HELD? OBJ
