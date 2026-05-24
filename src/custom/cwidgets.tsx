@@ -20,7 +20,7 @@ export function contains_label(obj: ObjectData) : string
     return '';
 }
 
-export function sorter_for_key(key: number) : (roots:ZObject[], map:Map<number, ZObject>) => void
+export function sorter_for_key(key: number, zstate: any) : (roots:ZObject[], map:Map<number, ZObject>) => void
 {
     let originobj: number = (key ? key : gamedat_ids.ADVENTURER);
 
