@@ -23,6 +23,8 @@ attr:RMUNGBIT: Not applied to real objects. `RMUNGBIT` is a hack used in grammar
 
 glob:P-SYNTAX: The grammar line found when the most recent command was parsed. (Except for simple direction commands, which are a special case.) See the Grammar tab.
 
+src:GSYNTAX-12: The words `FROTZ OZMOO` are [magic|relative:../zork3/#SRC:ACTIONS-1438] in Zork 3. They don’t need to be reserved in Zork 1; the [code that checks them|~src:GVERBS-1097] is not compiled. But as the header says, this is supposed to be a generic syntax file for the whole trilogy.
+
 
 objtree-legend: In this list, `Rooms` are rooms and `Items` are regular items. (Sometimes portable, sometimes not.)
 	`Scen` indicates scenery objects. These exist in multiple places; for example, the [~obj:WHITE-HOUSE] is visible from many outdoor locations. Sometimes as “You can’t see that from here”, but it’s the same object.
