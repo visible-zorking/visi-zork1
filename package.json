@@ -12,7 +12,7 @@
     "builddata": "pnpm run recreate-gamedata && pnpm run rearrange-tables && pnpm run recolor-source && pnpm run regenerate-commentary && pnpm run reparse-map",
     "recreate-gamedata": "python3 visiterp/pyana/parse.py --game zork1-r88-s840726 -z gamesrc/zork1.zil --obj --dict --grammar --txd --gamedat",
     "rearrange-tables": "python3 visiterp/pyana/parse.py --game zork1-r88-s840726 -z gamesrc/zork1.zil --zcode gamedat/zork1-r88-s840726.z3 --gamedat",
-    "recolor-source": "python3 visiterp/pyana/parse.py --game zork1-r88-s840726 -z gamesrc/zork1.zil --src",
+    "recolor-source": "python3 visiterp/pyana/parse.py --game zork1-r88-s840726 -z gamesrc/zork1.zil --src --reindent",
     "regenerate-commentary": "python3 visiterp/pyana/comgen.py gamedat/commentary",
     "reparse-map": "python3 visiterp/pyana/mapparse.py gamedat/zork1-map.svg"
   },
