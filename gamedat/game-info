@@ -513,7 +513,10 @@ Global 157 VERBS  table created from SYNTAX
 
 # Argument type info for routines that are hard to guess.
 
+RoutineType - ACLAUSE-WIN WORD
 RoutineType - CLAUSE - - WORD
+RoutineType - CLAUSE-ADD WORD
+RoutineType - CLAUSE-COPY TABLE TABLE WORD
 RoutineType - DO-WALK PROP
 RoutineType - FIND-IN OBJ ATTR
 RoutineType - GO-NEXT TABLE
