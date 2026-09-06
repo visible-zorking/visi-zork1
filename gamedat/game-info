@@ -520,27 +520,28 @@ RoutineType - CLAUSE-COPY TABLE TABLE WORD
 RoutineType - DO-WALK PROP
 RoutineType - DO-SL OBJ SLOCBITS SLOCBITS
 RoutineType - FIND-IN OBJ ATTR
-RoutineType - GO-NEXT TABLE
 RoutineType - GWIM - - PREP
-RoutineType - HELD? OBJ
 RoutineType - ITAKE-CHECK TABLE SLOCBITS
-RoutineType - JIGS-UP STR -
 RoutineType - LKP OBJ TABLE
-RoutineType - OPEN-CLOSE OBJ STR STR
 RoutineType - ORPHAN GLINE GLINE
 RoutineType - PERFORM ACTION PERFORMO PERFORMI
 RoutineType - PICK-ONE TABLE
 RoutineType - RANDOM-ELEMENT TABLE
+RoutineType - SYNTAX-FOUND GLINE
+RoutineType - WT? WORD PSTYPE P1TYPE
+
+RoutineType - GO-NEXT TABLE
+RoutineType - HELD? OBJ
+RoutineType - JIGS-UP STR -
+RoutineType - OPEN-CLOSE OBJ STR STR
 RoutineType - REMARK TABLE OBJ OBJ
 RoutineType - ROB OBJ OBJ -
 RoutineType - ROBBER-FUNCTION MELEEMODE
-RoutineType - SYNTAX-FOUND GLINE
 RoutineType - TROLL-FCN MELEEMODE
 RoutineType - VILLAIN-BLOW VILLAINOO
 RoutineType - VILLAIN-RESULT OBJ - COMBATRES
 RoutineType - VILLAIN-STRENGTH VILLAINOO
 RoutineType - WINNER-RESULT - COMBATRES -
-RoutineType - WT? WORD PSTYPE P1TYPE
 
 # Map connections that don't come directly from room properties.
 # (These are used for the "list rooms in order of closeness to you"
