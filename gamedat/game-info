@@ -442,7 +442,7 @@ Global 88 P-ADVERB  UNUSED
 Global 89 P-ADJ
 Global 90 P-NAM
 Global 91 P-GWIMBIT
-Global 92 P-SLOCBITS
+Global 92 P-SLOCBITS  SLOCBITS
 Global 93 P-DIRECTION  UNUSED
 Global 94 P-NUMBER
 Global 95 P-WALK-DIR  PROP
@@ -518,10 +518,12 @@ RoutineType - CLAUSE - - WORD
 RoutineType - CLAUSE-ADD WORD
 RoutineType - CLAUSE-COPY TABLE TABLE WORD
 RoutineType - DO-WALK PROP
+RoutineType - DO-SL OBJ SLOCBITS SLOCBITS
 RoutineType - FIND-IN OBJ ATTR
 RoutineType - GO-NEXT TABLE
 RoutineType - GWIM - - PREP
 RoutineType - HELD? OBJ
+RoutineType - ITAKE-CHECK TABLE SLOCBITS
 RoutineType - JIGS-UP STR -
 RoutineType - LKP OBJ TABLE
 RoutineType - OPEN-CLOSE OBJ STR STR
@@ -538,7 +540,7 @@ RoutineType - VILLAIN-BLOW VILLAINOO
 RoutineType - VILLAIN-RESULT OBJ - COMBATRES
 RoutineType - VILLAIN-STRENGTH VILLAINOO
 RoutineType - WINNER-RESULT - COMBATRES -
-RoutineType - WT? WORD - -
+RoutineType - WT? WORD PSTYPE P1TYPE
 
 # Map connections that don't come directly from room properties.
 # (These are used for the "list rooms in order of closeness to you"
